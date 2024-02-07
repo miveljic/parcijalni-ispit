@@ -1,0 +1,6 @@
+C:\Users\Mile\Desktop\New folder\Algebra\Ispit.Model\bin\Debug\Ispit.Model.dll
+C:\Users\Mile\Desktop\New folder\Algebra\Ispit.Model\bin\Debug\Ispit.Model.pdb
+C:\Users\Mile\Desktop\New folder\Algebra\Ispit.Model\obj\Debug\Ispit.Model.csproj.AssemblyReference.cache
+C:\Users\Mile\Desktop\New folder\Algebra\Ispit.Model\obj\Debug\Ispit.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mile\Desktop\New folder\Algebra\Ispit.Model\obj\Debug\Ispit.Model.dll
+C:\Users\Mile\Desktop\New folder\Algebra\Ispit.Model\obj\Debug\Ispit.Model.pdb
