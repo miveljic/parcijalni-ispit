@@ -20,7 +20,7 @@ namespace Ispit.Konzola
                 Console.Write("Unesite prezime ucenika: ");
                 var prezime = Console.ReadLine();
                 Console.Write("Unesite datum rodenja: ");
-                var datumrodjenja = DateTime.ParseExact(Console.ReadLine(), "dd.MM.yyyy", CultureInfo.InvariantCulture);
+                var datumrodjenja = DateTime.ParseExact(Console.ReadLine(), "dd.MM.yyyy.", CultureInfo.InvariantCulture);
                 Console.Write("Unesite prosjek: ");
                 var prosjek = Console.ReadLine();
 
